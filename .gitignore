@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+jwt/
 .jwtenv
 .DS_Store
 .*.swp
